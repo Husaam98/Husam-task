@@ -1,0 +1,7 @@
+com/automation/stepdefinitions/LoginSteps.class
+com/automation/runners/TestRunner.class
+com/automation/utils/ConfigReader.class
+com/automation/stepdefinitions/CheckoutSteps.class
+com/automation/pages/CheckoutPage.class
+com/automation/base/BaseTest.class
+com/automation/pages/LoginPage.class

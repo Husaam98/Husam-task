@@ -1,0 +1,8 @@
+/Users/husseinbanyodeh/Downloads/husamtask/src/test/java/com/automation/Main.java
+/Users/husseinbanyodeh/Downloads/husamtask/src/test/java/com/automation/base/BaseTest.java
+/Users/husseinbanyodeh/Downloads/husamtask/src/test/java/com/automation/pages/CheckoutPage.java
+/Users/husseinbanyodeh/Downloads/husamtask/src/test/java/com/automation/pages/LoginPage.java
+/Users/husseinbanyodeh/Downloads/husamtask/src/test/java/com/automation/runners/TestRunner.java
+/Users/husseinbanyodeh/Downloads/husamtask/src/test/java/com/automation/stepdefinitions/CheckoutSteps.java
+/Users/husseinbanyodeh/Downloads/husamtask/src/test/java/com/automation/stepdefinitions/LoginSteps.java
+/Users/husseinbanyodeh/Downloads/husamtask/src/test/java/com/automation/utils/ConfigReader.java
